@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Pedro, from Portugal and Passionate about Polymorphous Pieces of knownledge.
+My name is Pedro, from Portugal and Passionate about Polymorphous Pieces of knowledge.
 (Maybe I used one too many P's)
 
 - 🌱 I’m currently learning a large scope of Data Science topics.
