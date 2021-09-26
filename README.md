@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 My name is Pedro, from Portugal and Passionate about Polymorphous Pieces of knowledge.
 (Maybe I used one too many P's)
@@ -9,3 +9,8 @@ My name is Pedro, from Portugal and Passionate about Polymorphous Pieces of know
 
 Cheers,
 Pedro
+
+### Projects:
+
+- 🏪 Spatial optimization for new Migros supermarket in Zürich (Visualization & APIs)
+- ☎️ Prediction customer churn rate for telecom company (Supervised ML)
